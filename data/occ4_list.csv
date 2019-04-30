@@ -1,0 +1,479 @@
+occ_group,occ
+Managers,"Managers, nfd"
+Managers,"Chief Executives, General Managers and Legislators, nfd"
+Managers,Chief Executives and Managing Directors
+Managers,General Managers
+Managers,Legislators
+Managers,"Farmers and Farm Managers, nfd"
+Managers,Aquaculture Farmers
+Managers,Crop Farmers
+Managers,Livestock Farmers
+Managers,Mixed Crop and Livestock Farmers
+Managers,"Specialist Managers, nfd"
+Managers,"Advertising, Public Relations and Sales Managers"
+Managers,"Business Administration Managers, nfd"
+Managers,Corporate Services Managers
+Managers,Finance Managers
+Managers,Human Resource Managers
+Managers,Policy and Planning Managers
+Managers,Research and Development Managers
+Managers,"Construction, Distribution and Production Managers, nfd"
+Managers,Construction Managers
+Managers,Engineering Managers
+Managers,"Importers, Exporters and Wholesalers"
+Managers,Manufacturers
+Managers,Production Managers
+Managers,"Supply, Distribution and Procurement Managers"
+Managers,"Education, Health and Welfare Services Managers, nfd"
+Managers,Child Care Centre Managers
+Managers,Health and Welfare Services Managers
+Managers,School Principals
+Managers,Other Education Managers
+Managers,ICT Managers
+Managers,"Miscellaneous Specialist Managers, nfd"
+Managers,Commissioned Officers (Management)
+Managers,Senior Non-commissioned Defence Force Members
+Managers,Other Specialist Managers
+Managers,"Hospitality, Retail and Service Managers, nfd"
+Managers,"Accommodation and Hospitality Managers, nfd"
+Managers,Cafe and Restaurant Managers
+Managers,Caravan Park and Camping Ground Managers
+Managers,Hotel and Motel Managers
+Managers,Licensed Club Managers
+Managers,Other Accommodation and Hospitality Managers
+Managers,Retail Managers
+Managers,"Miscellaneous Hospitality, Retail and Service Managers, nfd"
+Managers,"Amusement, Fitness and Sports Centre Managers"
+Managers,Call or Contact Centre and Customer Service Managers
+Managers,Conference and Event Organisers
+Managers,Transport Services Managers
+Managers,"Other Hospitality, Retail and Service Managers"
+Professionals,"Professionals, nfd"
+Professionals,"Arts and Media Professionals, nfd"
+Professionals,"Arts Professionals, nfd"
+Professionals,"Actors, Dancers and Other Entertainers"
+Professionals,Music Professionals
+Professionals,Photographers
+Professionals,Visual Arts and Crafts Professionals
+Professionals,"Media Professionals, nfd"
+Professionals,"Artistic Directors, and Media Producers and Presenters"
+Professionals,"Authors, and Book and Script Editors"
+Professionals,"Film, Television, Radio and Stage Directors"
+Professionals,Journalists and Other Writers
+Professionals,"Business, Human Resource and Marketing Professionals, nfd"
+Professionals,"Accountants, Auditors and Company Secretaries, nfd"
+Professionals,Accountants
+Professionals,"Auditors, Company Secretaries and Corporate Treasurers"
+Professionals,"Financial Brokers and Dealers, and Investment Advisers, nfd"
+Professionals,Financial Brokers
+Professionals,Financial Dealers
+Professionals,Financial Investment Advisers and Managers
+Professionals,"Human Resource and Training Professionals, nfd"
+Professionals,Human Resource Professionals
+Professionals,ICT Trainers
+Professionals,Training and Development Professionals
+Professionals,"Information and Organisation Professionals, nfd"
+Professionals,"Actuaries, Mathematicians and Statisticians"
+Professionals,"Archivists, Curators and Records Managers"
+Professionals,Economists
+Professionals,Intelligence and Policy Analysts
+Professionals,Land Economists and Valuers
+Professionals,Librarians
+Professionals,Management and Organisation Analysts
+Professionals,Other Information and Organisation Professionals
+Professionals,"Sales, Marketing and Public Relations Professionals, nfd"
+Professionals,Advertising and Marketing Professionals
+Professionals,ICT Sales Professionals
+Professionals,Public Relations Professionals
+Professionals,Technical Sales Representatives
+Professionals,"Design, Engineering, Science and Transport Professionals, nfd"
+Professionals,"Air and Marine Transport Professionals, nfd"
+Professionals,Air Transport Professionals
+Professionals,Marine Transport Professionals
+Professionals,"Architects, Designers, Planners and Surveyors, nfd"
+Professionals,Architects and Landscape Architects
+Professionals,Surveyors and Spatial Scientists
+Professionals,"Fashion, Industrial and Jewellery Designers"
+Professionals,"Graphic and Web Designers, and Illustrators"
+Professionals,Interior Designers
+Professionals,Urban and Regional Planners
+Professionals,"Engineering Professionals, nfd"
+Professionals,Chemical and Materials Engineers
+Professionals,Civil Engineering Professionals
+Professionals,Electrical Engineers
+Professionals,Electronics Engineers
+Professionals,"Industrial, Mechanical and Production Engineers"
+Professionals,Mining Engineers
+Professionals,Other Engineering Professionals
+Professionals,"Natural and Physical Science Professionals, nfd"
+Professionals,Agricultural and Forestry Scientists
+Professionals,"Chemists, and Food and Wine Scientists"
+Professionals,Environmental Scientists
+Professionals,"Geologists, Geophysicists and Hydrogeologists"
+Professionals,Life Scientists
+Professionals,Medical Laboratory Scientists
+Professionals,Veterinarians
+Professionals,Other Natural and Physical Science Professionals
+Professionals,"Education Professionals, nfd"
+Professionals,"School Teachers, nfd"
+Professionals,Early Childhood (Pre-primary School) Teachers
+Professionals,Primary School Teachers
+Professionals,Middle School Teachers (Aus) / Intermediate School Teachers (NZ)
+Professionals,Secondary School Teachers
+Professionals,Special Education Teachers
+Professionals,"Tertiary Education Teachers, nfd"
+Professionals,University Lecturers and Tutors
+Professionals,Vocational Education Teachers (Aus) / Polytechnic Teachers (NZ)
+Professionals,"Miscellaneous Education Professionals, nfd"
+Professionals,Education Advisers and Reviewers
+Professionals,Private Tutors and Teachers
+Professionals,Teachers of English to Speakers of Other Languages
+Professionals,"Health Professionals, nfd"
+Professionals,"Health Diagnostic and Promotion Professionals, nfd"
+Professionals,Nutrition Professionals
+Professionals,Medical Imaging Professionals
+Professionals,Occupational and Environmental Health Professionals
+Professionals,Optometrists and Orthoptists
+Professionals,Pharmacists
+Professionals,Other Health Diagnostic and Promotion Professionals
+Professionals,"Health Therapy Professionals, nfd"
+Professionals,Chiropractors and Osteopaths
+Professionals,Complementary Health Therapists
+Professionals,Dental Practitioners
+Professionals,Occupational Therapists
+Professionals,Physiotherapists
+Professionals,Podiatrists
+Professionals,Audiologists and Speech Pathologists \ Therapists
+Professionals,"Medical Practitioners, nfd"
+Professionals,General Practitioners and Resident Medical Officers
+Professionals,Anaesthetists
+Professionals,Specialist Physicians
+Professionals,Psychiatrists
+Professionals,Surgeons
+Professionals,Other Medical Practitioners
+Professionals,"Midwifery and Nursing Professionals, nfd"
+Professionals,Midwives
+Professionals,Nurse Educators and Researchers
+Professionals,Nurse Managers
+Professionals,Registered Nurses
+Professionals,"ICT Professionals, nfd"
+Professionals,"Business and Systems Analysts, and Programmers, nfd"
+Professionals,ICT Business and Systems Analysts
+Professionals,Multimedia Specialists and Web Developers
+Professionals,Software and Applications Programmers
+Professionals,"Database and Systems Administrators, and ICT Security Specialists"
+Professionals,"ICT Network and Support Professionals, nfd"
+Professionals,Computer Network Professionals
+Professionals,ICT Support and Test Engineers
+Professionals,Telecommunications Engineering Professionals
+Professionals,"Legal, Social and Welfare Professionals, nfd"
+Professionals,"Legal Professionals, nfd"
+Professionals,Barristers
+Professionals,Judicial and Other Legal Professionals
+Professionals,Solicitors
+Professionals,"Social and Welfare Professionals, nfd"
+Professionals,Counsellors
+Professionals,Ministers of Religion
+Professionals,Psychologists
+Professionals,Social Professionals
+Professionals,Social Workers
+Professionals,"Welfare, Recreation and Community Arts Workers"
+Technicians and Trades Workers,"Technicians and Trades Workers, nfd"
+Technicians and Trades Workers,"Engineering, ICT and Science Technicians, nfd"
+Technicians and Trades Workers,"Agricultural, Medical and Science Technicians, nfd"
+Technicians and Trades Workers,Agricultural Technicians
+Technicians and Trades Workers,Medical Technicians
+Technicians and Trades Workers,Primary Products Inspectors
+Technicians and Trades Workers,Science Technicians
+Technicians and Trades Workers,"Building and Engineering Technicians, nfd"
+Technicians and Trades Workers,"Architectural, Building and Surveying Technicians"
+Technicians and Trades Workers,Civil Engineering Draftspersons and Technicians
+Technicians and Trades Workers,Electrical Engineering Draftspersons and Technicians
+Technicians and Trades Workers,Electronic Engineering Draftspersons and Technicians
+Technicians and Trades Workers,Mechanical Engineering Draftspersons and Technicians
+Technicians and Trades Workers,Safety Inspectors
+Technicians and Trades Workers,Other Building and Engineering Technicians
+Technicians and Trades Workers,"ICT and Telecommunications Technicians, nfd"
+Technicians and Trades Workers,ICT Support Technicians
+Technicians and Trades Workers,Telecommunications Technical Specialists
+Technicians and Trades Workers,"Automotive and Engineering Trades Workers, nfd"
+Technicians and Trades Workers,"Automotive Electricians and Mechanics, nfd"
+Technicians and Trades Workers,Automotive Electricians
+Technicians and Trades Workers,Motor Mechanics
+Technicians and Trades Workers,"Fabrication Engineering Trades Workers, nfd"
+Technicians and Trades Workers,"Metal Casting, Forging and Finishing Trades Workers"
+Technicians and Trades Workers,Sheetmetal Trades Workers
+Technicians and Trades Workers,Structural Steel and Welding Trades Workers
+Technicians and Trades Workers,"Mechanical Engineering Trades Workers, nfd"
+Technicians and Trades Workers,Aircraft Maintenance Engineers
+Technicians and Trades Workers,Metal Fitters and Machinists
+Technicians and Trades Workers,Precision Metal Trades Workers
+Technicians and Trades Workers,Toolmakers and Engineering Patternmakers
+Technicians and Trades Workers,"Panelbeaters, and Vehicle Body Builders, Trimmers and Painters, nfd"
+Technicians and Trades Workers,Panelbeaters
+Technicians and Trades Workers,Vehicle Body Builders and Trimmers
+Technicians and Trades Workers,Vehicle Painters
+Technicians and Trades Workers,"Construction Trades Workers, nfd"
+Technicians and Trades Workers,"Bricklayers, and Carpenters and Joiners, nfd"
+Technicians and Trades Workers,Bricklayers and Stonemasons
+Technicians and Trades Workers,Carpenters and Joiners
+Technicians and Trades Workers,"Floor Finishers and Painting Trades Workers, nfd"
+Technicians and Trades Workers,Floor Finishers
+Technicians and Trades Workers,Painting Trades Workers
+Technicians and Trades Workers,"Glaziers, Plasterers and Tilers, nfd"
+Technicians and Trades Workers,Glaziers
+Technicians and Trades Workers,Plasterers
+Technicians and Trades Workers,Roof Tilers
+Technicians and Trades Workers,Wall and Floor Tilers
+Technicians and Trades Workers,Plumbers
+Technicians and Trades Workers,"Electrotechnology and Telecommunications Trades Workers, nfd"
+Technicians and Trades Workers,Electricians
+Technicians and Trades Workers,"Electronics and Telecommunications Trades Workers, nfd"
+Technicians and Trades Workers,Airconditioning and Refrigeration Mechanics
+Technicians and Trades Workers,Electrical Distribution Trades Workers
+Technicians and Trades Workers,Electronics Trades Workers
+Technicians and Trades Workers,Telecommunications Trades Workers
+Technicians and Trades Workers,"Food Trades Workers, nfd"
+Technicians and Trades Workers,Bakers and Pastrycooks
+Technicians and Trades Workers,Butchers and Smallgoods Makers
+Technicians and Trades Workers,Chefs
+Technicians and Trades Workers,Cooks
+Technicians and Trades Workers,"Skilled Animal and Horticultural Workers, nfd"
+Technicians and Trades Workers,"Animal Attendants and Trainers, and Shearers, nfd"
+Technicians and Trades Workers,Animal Attendants and Trainers
+Technicians and Trades Workers,Shearers
+Technicians and Trades Workers,Veterinary Nurses
+Technicians and Trades Workers,"Horticultural Trades Workers, nfd"
+Technicians and Trades Workers,Florists
+Technicians and Trades Workers,Gardeners
+Technicians and Trades Workers,Greenkeepers
+Technicians and Trades Workers,Nurserypersons
+Technicians and Trades Workers,"Other Technicians and Trades Workers, nfd"
+Technicians and Trades Workers,Hairdressers
+Technicians and Trades Workers,"Printing Trades Workers, nfd"
+Technicians and Trades Workers,Print Finishers and Screen Printers
+Technicians and Trades Workers,Graphic Pre-press Trades Workers
+Technicians and Trades Workers,Printers
+Technicians and Trades Workers,"Textile, Clothing and Footwear Trades Workers, nfd"
+Technicians and Trades Workers,Canvas and Leather Goods Makers
+Technicians and Trades Workers,Clothing Trades Workers
+Technicians and Trades Workers,Upholsterers
+Technicians and Trades Workers,"Wood Trades Workers, nfd"
+Technicians and Trades Workers,Cabinetmakers
+Technicians and Trades Workers,Wood Machinists and Other Wood Trades Workers
+Technicians and Trades Workers,"Miscellaneous Technicians and Trades Workers, nfd"
+Technicians and Trades Workers,Boat Builders and Shipwrights
+Technicians and Trades Workers,"Chemical, Gas, Petroleum and Power Generation Plant Operators"
+Technicians and Trades Workers,"Gallery, Library and Museum Technicians"
+Technicians and Trades Workers,Jewellers
+Technicians and Trades Workers,Performing Arts Technicians
+Technicians and Trades Workers,Signwriters
+Technicians and Trades Workers,Other Miscellaneous Technicians and Trades Workers
+Community and Personal Service Workers,"Community and Personal Service Workers, nfd"
+Community and Personal Service Workers,"Health and Welfare Support Workers, nfd"
+Community and Personal Service Workers,Ambulance Officers and Paramedics
+Community and Personal Service Workers,"Dental Hygienists, Technicians and Therapists"
+Community and Personal Service Workers,Diversional Therapists
+Community and Personal Service Workers,Enrolled and Mothercraft Nurses
+Community and Personal Service Workers,Indigenous Health Workers
+Community and Personal Service Workers,Massage Therapists
+Community and Personal Service Workers,Welfare Support Workers
+Community and Personal Service Workers,"Carers and Aides, nfd"
+Community and Personal Service Workers,Child Carers
+Community and Personal Service Workers,Education Aides
+Community and Personal Service Workers,"Personal Carers and Assistants, nfd"
+Community and Personal Service Workers,Aged and Disabled Carers
+Community and Personal Service Workers,Dental Assistants
+Community and Personal Service Workers,Nursing Support and Personal Care Workers
+Community and Personal Service Workers,Special Care Workers
+Community and Personal Service Workers,"Hospitality Workers, nfd"
+Community and Personal Service Workers,Bar Attendants and Baristas
+Community and Personal Service Workers,Cafe Workers
+Community and Personal Service Workers,Gaming Workers
+Community and Personal Service Workers,Hotel Service Managers
+Community and Personal Service Workers,Waiters
+Community and Personal Service Workers,Other Hospitality Workers
+Community and Personal Service Workers,"Protective Service Workers, nfd"
+Community and Personal Service Workers,"Defence Force Members, Fire Fighters and Police, nfd"
+Community and Personal Service Workers,Defence Force Members - Other Ranks
+Community and Personal Service Workers,Fire and Emergency Workers
+Community and Personal Service Workers,Police
+Community and Personal Service Workers,"Prison and Security Officers, nfd"
+Community and Personal Service Workers,Prison Officers
+Community and Personal Service Workers,Security Officers and Guards
+Community and Personal Service Workers,"Sports and Personal Service Workers, nfd"
+Community and Personal Service Workers,"Personal Service and Travel Workers, nfd"
+Community and Personal Service Workers,Beauty Therapists
+Community and Personal Service Workers,Driving Instructors
+Community and Personal Service Workers,Funeral Workers
+Community and Personal Service Workers,"Gallery, Museum and Tour Guides"
+Community and Personal Service Workers,Personal Care Consultants
+Community and Personal Service Workers,Tourism and Travel Advisers
+Community and Personal Service Workers,Travel Attendants
+Community and Personal Service Workers,Other Personal Service Workers
+Community and Personal Service Workers,"Sports and Fitness Workers, nfd"
+Community and Personal Service Workers,Fitness Instructors
+Community and Personal Service Workers,Outdoor Adventure Guides
+Community and Personal Service Workers,"Sports Coaches, Instructors and Officials"
+Community and Personal Service Workers,Sportspersons
+Clerical and Administrative Workers,"Clerical and Administrative Workers, nfd"
+Clerical and Administrative Workers,"Office Managers and Program Administrators, nfd"
+Clerical and Administrative Workers,"Contract, Program and Project Administrators"
+Clerical and Administrative Workers,"Office and Practice Managers, nfd"
+Clerical and Administrative Workers,Office Managers
+Clerical and Administrative Workers,Practice Managers
+Clerical and Administrative Workers,"Personal Assistants and Secretaries, nfd"
+Clerical and Administrative Workers,Personal Assistants
+Clerical and Administrative Workers,Secretaries
+Clerical and Administrative Workers,"General Clerical Workers, nfd"
+Clerical and Administrative Workers,General Clerks
+Clerical and Administrative Workers,Keyboard Operators
+Clerical and Administrative Workers,"Inquiry Clerks and Receptionists, nfd"
+Clerical and Administrative Workers,"Call or Contact Centre Information Clerks, nfd"
+Clerical and Administrative Workers,Call or Contact Centre Workers
+Clerical and Administrative Workers,Information Officers
+Clerical and Administrative Workers,Receptionists
+Clerical and Administrative Workers,"Numerical Clerks, nfd"
+Clerical and Administrative Workers,"Accounting Clerks and Bookkeepers, nfd"
+Clerical and Administrative Workers,Accounting Clerks
+Clerical and Administrative Workers,Bookkeepers
+Clerical and Administrative Workers,Payroll Clerks
+Clerical and Administrative Workers,"Financial and Insurance Clerks, nfd"
+Clerical and Administrative Workers,Bank Workers
+Clerical and Administrative Workers,Credit and Loans Officers (Aus) / Finance Clerks (NZ)
+Clerical and Administrative Workers,"Insurance, Money Market and Statistical Clerks"
+Clerical and Administrative Workers,"Clerical and Office Support Workers, nfd"
+Clerical and Administrative Workers,Betting Clerks
+Clerical and Administrative Workers,Couriers and Postal Deliverers
+Clerical and Administrative Workers,Filing and Registry Clerks
+Clerical and Administrative Workers,Mail Sorters
+Clerical and Administrative Workers,Survey Interviewers
+Clerical and Administrative Workers,Switchboard Operators
+Clerical and Administrative Workers,Other Clerical and Office Support Workers
+Clerical and Administrative Workers,"Other Clerical and Administrative Workers, nfd"
+Clerical and Administrative Workers,"Logistics Clerks, nfd"
+Clerical and Administrative Workers,Purchasing and Supply Logistics Clerks
+Clerical and Administrative Workers,Transport and Despatch Clerks
+Clerical and Administrative Workers,"Miscellaneous Clerical and Administrative Workers, nfd"
+Clerical and Administrative Workers,Conveyancers and Legal Executives
+Clerical and Administrative Workers,Court and Legal Clerks
+Clerical and Administrative Workers,Debt Collectors
+Clerical and Administrative Workers,Human Resource Clerks
+Clerical and Administrative Workers,Inspectors and Regulatory Officers
+Clerical and Administrative Workers,"Insurance Investigators, Loss Adjusters and Risk Surveyors"
+Clerical and Administrative Workers,Library Assistants
+Clerical and Administrative Workers,Other Miscellaneous Clerical and Administrative Workers
+Sales Workers,"Sales Workers, nfd"
+Sales Workers,"Sales Representatives and Agents, nfd"
+Sales Workers,"Insurance Agents and Sales Representatives, nfd"
+Sales Workers,"Auctioneers, and Stock and Station Agents"
+Sales Workers,Insurance Agents
+Sales Workers,Sales Representatives
+Sales Workers,Real Estate Sales Agents
+Sales Workers,"Sales Assistants and Salespersons, nfd"
+Sales Workers,Sales Assistants (General)
+Sales Workers,ICT Sales Assistants
+Sales Workers,Motor Vehicle and Vehicle Parts Salespersons
+Sales Workers,Pharmacy Sales Assistants
+Sales Workers,Retail Supervisors
+Sales Workers,Service Station Attendants
+Sales Workers,Street Vendors and Related Salespersons
+Sales Workers,Other Sales Assistants and Salespersons
+Sales Workers,"Sales Support Workers, nfd"
+Sales Workers,Checkout Operators and Office Cashiers
+Sales Workers,"Miscellaneous Sales Support Workers, nfd"
+Sales Workers,Models and Sales Demonstrators
+Sales Workers,Retail and Wool Buyers
+Sales Workers,Telemarketers
+Sales Workers,Ticket Salespersons
+Sales Workers,Visual Merchandisers
+Sales Workers,Other Sales Support Workers
+Sales Workers,"Machinery Operators and Drivers, nfd"
+Sales Workers,"Machine and Stationary Plant Operators, nfd"
+Sales Workers,"Machine Operators, nfd"
+Sales Workers,"Clay, Concrete, Glass and Stone Processing Machine Operators"
+Sales Workers,Industrial Spraypainters
+Sales Workers,Paper and Wood Processing Machine Operators
+Sales Workers,Photographic Developers and Printers
+Sales Workers,Plastics and Rubber Production Machine Operators
+Sales Workers,Sewing Machinists
+Sales Workers,Textile and Footwear Production Machine Operators
+Sales Workers,Other Machine Operators
+Sales Workers,"Stationary Plant Operators, nfd"
+Sales Workers,"Crane, Hoist and Lift Operators"
+Sales Workers,"Drillers, Miners and Shot Firers"
+Sales Workers,Engineering Production Workers
+Sales Workers,Other Stationary Plant Operators
+Sales Workers,"Mobile Plant Operators, nfd"
+Sales Workers,"Agricultural, Forestry and Horticultural Plant Operators"
+Sales Workers,Earthmoving Plant Operators
+Sales Workers,Forklift Drivers
+Sales Workers,Other Mobile Plant Operators
+Sales Workers,"Road and Rail Drivers, nfd"
+Sales Workers,"Automobile, Bus and Rail Drivers, nfd"
+Sales Workers,Automobile Drivers
+Sales Workers,Bus and Coach Drivers
+Sales Workers,Train and Tram Drivers
+Sales Workers,Delivery Drivers
+Sales Workers,Truck Drivers
+Sales Workers,Storepersons
+Labourers,"Labourers, nfd"
+Labourers,"Cleaners and Laundry Workers, nfd"
+Labourers,Car Detailers
+Labourers,Commercial Cleaners
+Labourers,Domestic Cleaners
+Labourers,Housekeepers
+Labourers,Laundry Workers
+Labourers,Other Cleaners
+Labourers,"Construction and Mining Labourers, nfd"
+Labourers,Building and Plumbing Labourers
+Labourers,Concreters
+Labourers,Fencers
+Labourers,Insulation and Home Improvement Installers
+Labourers,Paving and Surfacing Labourers
+Labourers,Railway Track Workers
+Labourers,Structural Steel Construction Workers
+Labourers,Other Construction and Mining Labourers
+Labourers,"Factory Process Workers, nfd"
+Labourers,"Food Process Workers, nfd"
+Labourers,Food and Drink Factory Workers
+Labourers,"Meat Boners and Slicers, and Slaughterers"
+Labourers,"Meat, Poultry and Seafood Process Workers"
+Labourers,"Packers and Product Assemblers, nfd"
+Labourers,Packers
+Labourers,Product Assemblers
+Labourers,"Miscellaneous Factory Process Workers, nfd"
+Labourers,Metal Engineering Process Workers
+Labourers,Plastics and Rubber Factory Workers
+Labourers,Product Quality Controllers
+Labourers,Timber and Wood Process Workers
+Labourers,Other Factory Process Workers
+Labourers,"Farm, Forestry and Garden Workers, nfd"
+Labourers,Aquaculture Workers
+Labourers,Crop Farm Workers
+Labourers,Forestry and Logging Workers
+Labourers,Garden and Nursery Labourers
+Labourers,Livestock Farm Workers
+Labourers,Mixed Crop and Livestock Farm Workers
+Labourers,"Other Farm, Forestry and Garden Workers"
+Labourers,"Food Preparation Assistants, nfd"
+Labourers,Fast Food Cooks
+Labourers,Food Trades Assistants
+Labourers,Kitchenhands
+Labourers,"Other Labourers, nfd"
+Labourers,"Freight Handlers and Shelf Fillers, nfd"
+Labourers,Freight and Furniture Handlers
+Labourers,Shelf Fillers
+Labourers,"Miscellaneous Labourers, nfd"
+Labourers,Caretakers
+Labourers,Deck and Fishing Hands
+Labourers,Handypersons
+Labourers,Motor Vehicle Parts and Accessories Fitters
+Labourers,Printing Assistants and Table Workers
+Labourers,Recycling and Rubbish Collectors
+Labourers,Vending Machine Attendants
+Labourers,Other Miscellaneous Labourers
+NA,Inadequately described
+NA,Not stated
+NA,Not applicable
+NA,NA
