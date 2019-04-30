@@ -3,13 +3,14 @@
 
 library(shiny)
 library(tidyverse)
-# theme_set(theme_bw())
 library(grattantheme)
 library(plotly)
 
 # Get data --------------------------------------------------------------------
 
-data <- read_rds("data/occ_education.rds")
+# data <- read_rds("data/occ_education.rds")
+data <- read_rds("data/occ_education_aus.rds")
+
 
 occs <- data %>% 
     filter(!is.na(occ_group)) %>% 
@@ -27,6 +28,10 @@ ui <- fluidPage(theme = "journal.css",
                 
                 p(paste("The chart below uses ABS Census data to show the education levels of 25-64 year-olds",
                         "who work in specific jobs. Occupations are sorted from most to least workers.")),
+                
+                p("Australian citizens who are not presently studying."),
+                
+                p("Greater opaqueness means more people in the occupation are within that particular age/gender group."),
                 
                 # Select
                 fluidRow(
