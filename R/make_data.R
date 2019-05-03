@@ -14,8 +14,8 @@ quals <- c(
 
 
 # Whole population ------------------------------------------------
-data <- read_csv("data/occ_education.csv", skip = 9) %>% 
-  select(-X7)
+data <- read_csv("data/education_occ_nostudy.csv", skip = 10) %>% 
+  select(-X8)
 
 names(data) <- rename_abs(data)
 
@@ -37,18 +37,18 @@ group_by(occ) %>%
 
 
 
-write_rds(data, "data/occ_education.rds")
+write_rds(data, "data/education_occ_nostudy.rds")
 
 
 
 
 # Aus-citizens only; not studying ------------------------------------------------
-data <- read_csv("data/education_occ_aus_nostudy.csv", skip = 10) %>% 
+data1 <- read_csv("data/education_occ_aus_nostudy.csv", skip = 10) %>% 
   select(-X9)
 
-names(data) <- rename_abs(data)
+names(data1) <- rename_abs(data1)
 
-data <- data %>% 
+data1 <- data1 %>% 
   select(-person_place,
          -citizen,
          -student_status) %>% 
@@ -68,4 +68,38 @@ data <- data %>%
 
 
 
-write_rds(data, "data/occ_education_aus.rds")
+write_rds(data1, "data/occ_education_aus.rds")
+
+
+
+# Additional: occupations by their weighted 50%+ education
+
+skill_classification <-
+data %>% 
+  select(occ, age, qual, occ_group, n) %>% 
+  filter(!is.na(occ_group)) %>% 
+  mutate(age_weight = case_when(
+      age == "25-34" ~ 1.0,
+      age == "35-44" ~ 0.5,
+      age == "45-54" ~ 0.2,
+      age == "55-64" ~ 0.1,
+      age == "Over 60" ~ 0),
+    nw = n * age_weight,
+    qual = if_else(qual == "Postgrad", factor("Bachelor", levels = quals), qual)) %>% 
+  group_by(occ_group, occ, qual) %>% 
+  summarise(n = sum(nw, na.rm = T)) %>% 
+  mutate(pc = 100 * n / sum(n))
+
+sc_pc <- skill_classification %>% 
+  select(-n) %>% 
+  spread(key = qual, value = pc)
+
+sc_n <- skill_classification %>% 
+  select(-pc) %>% 
+  spread(key = qual, value = n)
+
+
+write_csv(sc_pc, "output/skill_classification.csv")
+write_csv(sc_n, "output/skill_classification_n.csv")
+
+  
