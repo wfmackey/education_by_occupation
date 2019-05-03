@@ -5,8 +5,9 @@ account: wfmackey
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 897192
-bundleId: 2057067
+bundleId: 2057072
 url: https://wfmackey.shinyapps.io/education_by_occupation/
-when: 1556866760.8467
+when: 1556866970.46285
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: output/skill_classification_n.csv|output/skill_classification.csv|output/skills_re-classification.xlsx|R/make_data.R|R/rename_abs.R
